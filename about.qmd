@@ -5,3 +5,14 @@ title: "About"
 About this site:
 
 This site is a website built with Quarto and deployed to GitHub Pages
+
+```{python}
+import matplotlib.pylot as plt
+
+x = list(range(10))
+y = list(range(10,20))
+
+fig, ax = plt.subplots()
+ax.plot(x, y, color='blue')
+fig.show()
+```
