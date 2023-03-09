@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site:\nThis site is a website built with Quarto and deployed to GitHub Pages"
+    "text": "About this site:\nThis site is a website built with Quarto and deployed to GitHub Pages\n\nimport matplotlib.pyplot as plt\n\nx = list(range(10))\ny = list(range(10,20))\n\nfig, ax = plt.subplots()\nax.plot(x, y, color='blue')\nfig.show()"
   },
   {
     "objectID": "index.html",
