@@ -1,0 +1,11 @@
+{
+  "hash": "36e2213cac5e9a96071fb2007950ebc7",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site:\n\nThis site is a website built with Quarto and deployed to GitHub Pages\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport matplotlib.pyplot as plt\n\nx = list(range(10))\ny = list(range(10,20))\n\nfig, ax = plt.subplots()\nax.plot(x, y, color='blue')\nfig.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](about_files/figure-html/cell-2-output-1.png){width=566 height=411}\n:::\n:::\n\n\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

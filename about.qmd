@@ -7,7 +7,7 @@ About this site:
 This site is a website built with Quarto and deployed to GitHub Pages
 
 ```{python}
-import matplotlib.pylot as plt
+import matplotlib.pyplot as plt
 
 x = list(range(10))
 y = list(range(10,20))

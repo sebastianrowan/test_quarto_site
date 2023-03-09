@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site:\nThis site is a website built with Quarto and deployed to GitHub Pages\n\nimport matplotlib.pyplot as plt\n\nx = list(range(10))\ny = list(range(10,20))\n\nfig, ax = plt.subplots()\nax.plot(x, y, color='blue')\nfig.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
