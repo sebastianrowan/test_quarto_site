@@ -1,1 +1,1 @@
-Sitemap: https://sebastianrowan.github.io/test_quarto_site/sitemap.xml
+Sitemap: https://github.com/sebastianrowan/test_quarto_site/sitemap.xml
